@@ -1,0 +1,12 @@
+.\Flash\controls.o: Controls.c
+.\Flash\controls.o: C:\Software\Keil\ARM\RV31\INC\RTL.h
+.\Flash\controls.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\controls.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\controls.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\controls.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\controls.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\controls.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\controls.o: GLCD.h
+.\Flash\controls.o: Entities.h
+.\Flash\controls.o: Graphics.h
+.\Flash\controls.o: Controls.h

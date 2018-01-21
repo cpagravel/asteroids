@@ -1,0 +1,5 @@
+--cpu Cortex-M3 ".\flash\startup_lpc17xx.o" ".\flash\system_lpc17xx.o" ".\flash\rtx_conf_cm.o" ".\flash\glcd_spi_lpc1700.o" ".\flash\main.o" ".\flash\graphics.o" ".\flash\entities.o" ".\flash\controls.o" ".\flash\tasks.o" ".\flash\retarget.o" ".\flash\uart.o" 
+C:\Software\Keil\ARM\RV31\LIB\RTX_CM3.LIB --library_type=microlib --strict --scatter ".\Flash\Blinky.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf

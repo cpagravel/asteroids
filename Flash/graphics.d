@@ -1,0 +1,14 @@
+.\Flash\graphics.o: Graphics.c
+.\Flash\graphics.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\RV31\INC\RTL.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\graphics.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\graphics.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\graphics.o: Controls.h
+.\Flash\graphics.o: Entities.h
+.\Flash\graphics.o: Graphics.h
+.\Flash\graphics.o: MacroDefs.h
+.\Flash\graphics.o: GLCD.h

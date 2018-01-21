@@ -1,0 +1,30 @@
+*** Creating Trace Output File '.\Flash\Blinky.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\flash\startup_lpc17xx.o"'
+### List of Objects: adding '".\flash\system_lpc17xx.o"'
+### List of Objects: adding '".\flash\rtx_conf_cm.o"'
+### List of Objects: adding '".\flash\glcd_spi_lpc1700.o"'
+### List of Objects: adding '".\flash\main.o"'
+### List of Objects: adding '".\flash\graphics.o"'
+### List of Objects: adding '".\flash\entities.o"'
+### List of Objects: adding '".\flash\controls.o"'
+### List of Objects: adding '".\flash\tasks.o"'
+### List of Objects: adding '".\flash\retarget.o"'
+### List of Objects: adding '".\flash\uart.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\flash\startup_lpc17xx.o" ".\flash\system_lpc17xx.o" ".\flash\rtx_conf_cm.o" ".\flash\glcd_spi_lpc1700.o" ".\flash\main.o" ".\flash\graphics.o" ".\flash\entities.o" ".\flash\controls.o" ".\flash\tasks.o" ".\flash\retarget.o" ".\flash\uart.o" 
+C:\Software\Keil\ARM\RV31\LIB\RTX_CM3.LIB --library_type=microlib --strict --scatter ".\Flash\Blinky.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Flash\Blinky.axf'
+### ADS-LD Command File: '.\Flash\Blinky.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Flash\Blinky.lnp', Handle=0x00000460
+### Writing '.lnp' file
+### ADS-LD Command file '.\Flash\Blinky.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

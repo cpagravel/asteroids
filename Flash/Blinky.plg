@@ -1,0 +1,70 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\2B\MTE241\Lab4\Asteroids\P4_demo.uvproj
+Project File Date:  11/25/2016
+
+<h2>Output:</h2>
+Load "N:\\2B\\MTE241\\Lab4\\Asteroids\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'LPC1768 Flash'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+GLCD_SPI_LPC1700.c(870): warning:  #1-D: last line of file ends without a newline
+compiling Main.c...
+Entities.h(149): warning:  #1-D: last line of file ends without a newline
+Graphics.h(37): warning:  #1-D: last line of file ends without a newline
+Controls.h(93): warning:  #1-D: last line of file ends without a newline
+Tasks.h(18): warning:  #1-D: last line of file ends without a newline
+compiling Graphics.c...
+Controls.h(93): warning:  #1-D: last line of file ends without a newline
+Entities.h(149): warning:  #1-D: last line of file ends without a newline
+Graphics.h(37): warning:  #1-D: last line of file ends without a newline
+MacroDefs.h(95): warning:  #1-D: last line of file ends without a newline
+Graphics.c(151): warning:  #223-D: function "sprintf" declared implicitly
+Graphics.c(147): warning:  #177-D: variable "tmp" was declared but never referenced
+Graphics.c(148): warning:  #177-D: variable "asciiCode" was declared but never referenced
+Graphics.c(361): warning:  #177-D: variable "i" was declared but never referenced
+Graphics.c(487): warning:  #223-D: function "sprintf" declared implicitly
+Graphics.c(507): warning:  #167-D: argument of type "char *" is incompatible with parameter of type "unsigned char *"
+Graphics.c(513): warning:  #111-D: statement is unreachable
+Graphics.c(516): warning:  #1-D: last line of file ends without a newline
+compiling Entities.c...
+Entities.h(149): warning:  #1-D: last line of file ends without a newline
+Graphics.h(37): warning:  #1-D: last line of file ends without a newline
+MacroDefs.h(95): warning:  #1-D: last line of file ends without a newline
+Tasks.h(18): warning:  #1-D: last line of file ends without a newline
+Entities.c(569): warning:  #1-D: last line of file ends without a newline
+Entities.c(69): warning: C3017W: angle may be used before being set
+Entities.c(270): warning: C3017W: asterx may be used before being set
+Entities.c(270): warning: C3017W: astery may be used before being set
+compiling Controls.c...
+Entities.h(149): warning:  #1-D: last line of file ends without a newline
+Graphics.h(37): warning:  #1-D: last line of file ends without a newline
+Controls.h(93): warning:  #1-D: last line of file ends without a newline
+Controls.c(177): warning:  #223-D: function "LCD_Init" declared implicitly
+Controls.c(180): warning:  #1-D: last line of file ends without a newline
+compiling Tasks.c...
+Entities.h(149): warning:  #1-D: last line of file ends without a newline
+Graphics.h(37): warning:  #1-D: last line of file ends without a newline
+Controls.h(93): warning:  #1-D: last line of file ends without a newline
+Tasks.h(18): warning:  #1-D: last line of file ends without a newline
+Tasks.c(144): warning:  #111-D: statement is unreachable
+Tasks.c(163): warning:  #111-D: statement is unreachable
+Tasks.c(246): warning:  #111-D: statement is unreachable
+Tasks.c(337): warning:  #1-D: last line of file ends without a newline
+compiling Retarget.c...
+compiling uart.c...
+linking...
+Program Size: Code=22210 RO-data=6918 RW-data=176 ZI-data=14784  
+".\Flash\Blinky.axf" - 0 Error(s), 38 Warning(s).
+Load "N:\\2B\\MTE241\\Lab4\\Asteroids\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.

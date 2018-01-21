@@ -1,0 +1,15 @@
+.\Flash\entities.o: Entities.c
+.\Flash\entities.o: C:\Software\Keil\ARM\RV31\INC\RTL.h
+.\Flash\entities.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\math.h
+.\Flash\entities.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\Flash\entities.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H
+.\Flash\entities.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\entities.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\entities.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\entities.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\entities.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\entities.o: Entities.h
+.\Flash\entities.o: Graphics.h
+.\Flash\entities.o: MacroDefs.h
+.\Flash\entities.o: GLCD.h
+.\Flash\entities.o: Tasks.h

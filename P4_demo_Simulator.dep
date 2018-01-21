@@ -1,0 +1,59 @@
+Dependencies for Project 'P4_demo', Target 'Simulator': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x4F58E14A)(--cpu Cortex-M3 --pd "__RTX SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx --list ".\Flash\startup_LPC17xx.lst" --xref -o ".\Flash\startup_LPC17xx.o" --depend ".\Flash\startup_LPC17xx.d")
+F (.\system_LPC17xx.c)(0x4F91432C)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\system_lpc17xx.o" --omf_browse ".\Flash\system_lpc17xx.crf" --depend ".\Flash\system_lpc17xx.d")
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+F (.\RTX_Conf_CM.c)(0x4F58E14A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\rtx_conf_cm.o" --omf_browse ".\Flash\rtx_conf_cm.crf" --depend ".\Flash\rtx_conf_cm.d")
+I (C:\Software\Keil\ARM\RV31\INC\RTL.h)(0x504DDBAC)
+I (C:\Software\Keil\ARM\RV31\INC\RTX_lib.c)(0x5050BD28)
+F (.\GLCD_SPI_LPC1700.c)(0x4F58E14A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\glcd_spi_lpc1700.o" --omf_browse ".\Flash\glcd_spi_lpc1700.crf" --depend ".\Flash\glcd_spi_lpc1700.d")
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+I (GLCD.h)(0x4F58E14A)
+I (Font_6x8_h.h)(0x4F58E14A)
+I (Font_16x24_h.h)(0x4F58E14A)
+F (.\LED.c)(0x582C929A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\led.o" --omf_browse ".\Flash\led.crf" --depend ".\Flash\led.d")
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+I (LED.h)(0x582C878C)
+F (.\Main.c)(0x582C96FA)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\main.o" --omf_browse ".\Flash\main.crf" --depend ".\Flash\main.d")
+I (C:\Software\Keil\ARM\RV31\INC\RTL.h)(0x504DDBAC)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+I (GLCD.h)(0x4F58E14A)
+I (LED.h)(0x582C878C)
+I (KBD.h)(0x4F58E15A)
+I (ADC.h)(0x582C9646)
+F (.\KBD.c)(0x4F58E15A)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\kbd.o" --omf_browse ".\Flash\kbd.crf" --depend ".\Flash\kbd.d")
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+I (KBD.h)(0x4F58E15A)
+F (.\ADC.c)(0x582C9640)(-c --cpu Cortex-M3 -D__RTX -D__MICROLIB -g -O3 --apcs=interwork -I. -I C:\Software\Keil\ARM\RV31\INC -I C:\Software\Keil\ARM\CMSIS\Include -I C:\Software\Keil\ARM\Inc\NXP\LPC17xx -o ".\Flash\adc.o" --omf_browse ".\Flash\adc.crf" --depend ".\Flash\adc.d")
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.H)(0x4FF59B7C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h)(0x5006C432)
+I (C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x4EB16D34)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5059F73C)
+I (C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x4FDB2F0C)
+I (C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x4F58E032)
+I (ADC.h)(0x582C9646)
+F (.\Abstract.txt)(0x00000000)()
